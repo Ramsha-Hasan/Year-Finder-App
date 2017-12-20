@@ -1,5 +1,4 @@
 
-document.getElementById('btn').addEventListener('submit',calculateYear);
 function calculateYear()
 {
     var age = document.getElementById('age').value;
